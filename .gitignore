@@ -1,7 +1,5 @@
 .venv/
 
-*.csv
-
 .ipynb_checkpoints/
 
 notebooks/*.csv
