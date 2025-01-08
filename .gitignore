@@ -1,5 +1,9 @@
+.venv/
+
 *.csv
 
 .ipynb_checkpoints/
 
-.venv/
+notebooks/*.csv
+
+notebooks/ipynb_checkpoints/
