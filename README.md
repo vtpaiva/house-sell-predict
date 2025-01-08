@@ -1,5 +1,7 @@
 # house-sell-predict
 
+(All the notebooks codes are also documented)
+
 #### Português 🇧🇷
 
 ---
